@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Yi (Owen) Wang"
+title                    : "Yi (Owen) Wang's Home Page"
 title_separator          : "-"
 name                     : &name "Yi (Owen) Wang"
 description              : &description "PhD at Deakin University"   # Update this with a general description of your site, this is the default if not overridden by a page
