@@ -23,7 +23,7 @@ repository               : "wyowen-hub.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "mm.jpg"
   name             : "Yi (Owen) Wang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
